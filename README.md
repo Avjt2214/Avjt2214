@@ -2,7 +2,7 @@
 I'm a passionate developer with a love for open-source contributions and community building. My interests span across various domains including web development, cloud computing, and machine learning.
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
 - 🌱 I’m currently learning machine learning techniques and cloud architecture.
 - 👯 I’m looking to collaborate on open-source projects related to ML and cloud solutions.
