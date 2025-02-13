@@ -1,3 +1,4 @@
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋! I'm ABHIJIT!</h1>
 I'm a passionate developer with a love for open-source contributions and community building. My interests span across various domains including web development, cloud computing, and machine learning.
 ###
