@@ -4,10 +4,9 @@ I'm a passionate developer with a love for open-source contributions and communi
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
-- 🌱 I’m currently learning advanced machine learning techniques and cloud architecture.
+- 🌱 I’m currently learning machine learning techniques and cloud architecture.
 - 👯 I’m looking to collaborate on open-source projects related to ML and cloud solutions.
 - 💬 Ask me about web development, cloud computing, and ML.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avjt/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
